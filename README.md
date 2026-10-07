@@ -41,5 +41,7 @@ de código, e retrospectivas a cada 2–4 semanas documentando o que aprendi.
 
 ## Diário de decisões
 
-_(as retrospectivas vão aqui — o registro honesto do que deu certo, do que travou
-e do que faria diferente)_
+Registro minhas retrospectivas e decisões de arquitetura ao longo do projeto —
+o que aprendi, onde travei, o que mudei de ideia e por quê.
+
+👉 [Veja as retrospectivas](./Retrospectivas.md)
